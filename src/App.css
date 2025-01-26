@@ -1,0 +1,116 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* HomeScreen */
+.starterButton {
+  background-color: #FF8A00;
+  color: #FFFFFF;
+  width: 250px;
+  height: 52px;
+}
+
+.homeHeader {
+  color: #FF8A00;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.homeHeader2 {
+  color: #3f3d3d;
+  font-size: 1.3rem;
+  padding-top: 3rem;
+}
+
+.homeParagraph {
+  color: #3f3d3d;
+  padding-bottom: 3rem;
+}
+
+/* Questions */
+img {
+  height: 300px;
+  width: 450px;
+  border-radius: 8px;
+}
+
+.time {
+  width: 200px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #F6F6F6;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  border-radius: 8px;
+}
+
+.optionsButtons:hover {
+  color: white;
+}
+
+.optionsButtons {
+  width: 380px;
+  height: 68px;
+  background-color: #F6F6F6;
+  border: 1px solid #f1f1f1;
+}
+
+.buttonGroup {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 24px 0px;
+  width: 784px;
+  height: 160px;
+}
+
+.questionsQuestion {
+  width: 784px;
+  font-size: large;
+  font-weight: 600;
+}
+
+/* Result Screen */
+.resultHeader {
+  color: orange;
+}
+
+.dogruYanlisBos {
+  text-align: start;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.dogruSpan {
+  color: green;
+}
+
+.yanlisSpan {
+  color: red;
+}
+
+.bosSpan {
+  color: #5b5b5b;
+}
+
+.resultDivs {
+  display: flex;
+  gap: 1rem;
+}
+
+li {
+  text-align: start;
+}
+
+.resultDivs div {
+  width: 400px;
+  background-color: #F6F6F6;
+  border-radius: 12px;
+  border: 1px solid #f1f1f1;
+}
