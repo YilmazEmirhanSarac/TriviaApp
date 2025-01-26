@@ -4,4 +4,4 @@
 
 https://ephemeral-khapse-c9b8b1.netlify.app
 
-This is a question app created for the Patika+ Frontend Bootcamp and developed using React.
+This project is built with React, using Context API for state management to handle global data and manage the application's state across multiple components.
