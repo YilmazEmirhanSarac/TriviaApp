@@ -64,13 +64,3 @@ To run the project locally, follow these steps:
 ## Usage
 
 The application presents users with various questions and allows them to submit their answers. After submitting, they can view their performance on the result screen.
-
-
-Home Screen
-<img width="1512" alt="Ekran Resmi 2025-01-26 16 54 10" src="https://github.com/user-attachments/assets/60a14946-1961-45df-9d91-a50721023f09" />
-
-Main Screen
-<img width="1512" alt="Ekran Resmi 2025-01-26 16 54 54" src="https://github.com/user-attachments/assets/fdfd8665-428f-4bf8-a2a9-b107d4c361fa" />
-
-Result Screen
-<img width="1512" alt="Ekran Resmi 2025-01-26 16 56 01" src="https://github.com/user-attachments/assets/109d69e3-f6a8-427f-882e-d2105205d038" />
