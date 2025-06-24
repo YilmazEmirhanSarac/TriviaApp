@@ -7,7 +7,7 @@ function HomeScreen() {
 
     return (
         <>
-            <h1 className='homeHeader'>Question App</h1>
+            <h1 className='homeHeader'>Trivia App</h1>
             <h3 className='homeHeader2'>Teste hoş geldiniz talimatlar aşağıda ki alanda yer almaktadır.</h3>
             <p className='homeParagraph'>Talimatlar: Sınava başla dedikten sonra ilk dört saniye sadece soru görünecektir. <br />
                 Bu süre dışında kalan yirmi altı saniye ile birlikte toplam otuz saniye içinde soruyu cevaplamak zorundasınız. <br />
