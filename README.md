@@ -13,7 +13,7 @@ You can check out the live version of the application using the link below:
 ## Home Page
 
 
-<img width="1512" alt="Ekran Resmi 2025-01-26 16 54 10" src="https://github.com/user-attachments/assets/60a14946-1961-45df-9d91-a50721023f09" />
+<img width="1512" alt="Ekran Resmi 2025-01-26 16 54 10" src="https://github.com/user-attachments/assets/88b77a64-7028-4888-b81b-711129bb5cd6" />
 
 ## Question Screen
 
