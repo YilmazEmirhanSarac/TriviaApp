@@ -1,4 +1,4 @@
-# QuestionApp
+# TriviaApp
 
 This project is a question-answer application built with React. The application uses Context API for global data management and state handling across components.
 
@@ -6,7 +6,7 @@ This project is a question-answer application built with React. The application 
 
 You can check out the live version of the application using the link below:
 
-[QuestionApp Live Demo](https://ephemeral-khapse-c9b8b1.netlify.app)
+[TriviaApp Live Demo](https://ephemeral-khapse-c9b8b1.netlify.app)
 
 ## Screenshots
 
@@ -38,13 +38,13 @@ To run the project locally, follow these steps:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/YilmazEmirhanSarac/QuestionApp.git
+    git clone https://github.com/YilmazEmirhanSarac/TriviaApp.git
     ```
 
 2. **Navigate to the Project Directory**:
 
     ```bash
-    cd QuestionApp
+    cd TriviaApp
     ```
 
 3. **Install Dependencies**:
